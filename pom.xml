@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>sceneswitch.Main</exec.mainClass>
-        <javafx.version>20.0.1</javafx.version>
+        <javafx.version>22.0.1</javafx.version>
     </properties>
     <dependencies>
         <dependency>
